@@ -1,4 +1,5 @@
 # Dynamite-Git-Example
-A throwaway repo for a Git tutorial
+A throwaway repo for a Git tutorial by Team Dynamite.
 
-I make a change.
+Let's learn git basics together!
+
